@@ -27,8 +27,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Run api
-mongod
-cd api/
-npm install
-node_modules/.bin/nodemon --inspect server.js
+Run `mongod`
+
+Go to `cd api/`
+
+Do `npm install`
+
+Run `node_modules/.bin/nodemon --inspect server.js`
 
